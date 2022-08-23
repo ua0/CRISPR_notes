@@ -3,3 +3,10 @@ Gini Index for CRISPR from Galaxy Project tutorial
 GiniIndex: The Gini Index of the read count distribution. A smaller value indicates more eveness of the count distribution. (Recommended: around 0.1 for plasmid or initial state samples, and around 0.2-0.3 for negative selection samples)
 
 Gini index is a measure of inequality from economics. It is used in CRISPR analysis to assess if sgRNAs are present in equal amounts. In positive selection experiments, where only some sgRNAs dominate, the index can be high. However, as discussed in Li et al. 2015, in plasmid library, in early time points, or negative selection experiments, we expect fairly even distribution of the remaining sgRNAs that haven’t been negatively selected. A high Gini index in these types of sample can indicate CRISPR oligonucleotide synthesis unevenness, low viral transfection efficiency, and overselection, respectively.
+
+------------------------------
+
+Galaxy Project CRISPR tutorial link:
+https://training.galaxyproject.org/archive/2022-03-01/topics/genome-editing/tutorials/crispr-screen/tutorial.html
+
+------------------------------
